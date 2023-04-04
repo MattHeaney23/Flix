@@ -1,0 +1,6 @@
+module Pods_FlixLocal {
+  umbrella header "Pods-FlixLocal-umbrella.h"
+
+  export *
+  module * { export * }
+}

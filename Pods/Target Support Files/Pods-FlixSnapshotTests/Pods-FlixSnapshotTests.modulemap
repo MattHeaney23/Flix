@@ -1,0 +1,6 @@
+module Pods_FlixSnapshotTests {
+  umbrella header "Pods-FlixSnapshotTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

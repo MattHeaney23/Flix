@@ -1,8 +1,10 @@
 **App Name:** “flix.”
 
+![Flix-HomeView](https://user-images.githubusercontent.com/129856192/229848184-d6b9680b-aed8-48c4-bc66-45241a090200.png) ![Flix-MovieDetailView](https://user-images.githubusercontent.com/129856192/229848563-6daa332c-3757-4ee7-9f0e-d5c7a034363d.png) ![Flix-Search](https://user-images.githubusercontent.com/129856192/229848594-e31b381d-ed3f-45cc-8ebc-ceb61bbac7c9.png)
+
 **Frameworks Used:**
 
-- UIKit (SwiftUI was not an option, due to the requirement that the app runs on iOS 12). All views were created in code, rather than in storyboards or xib files.
+- UIKit. All views were created in code, rather than in storyboards or xib files.
 - RxSwift/ RxAlamofire
 
 **Architecture:**
